@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavibia" alt="lavibia" /></a> </p>
 
-- 🔭 I’m currently working on [ToDo App](https://github.com/lavibia/planetland.git)
+- 🔭 I’m currently working on [Planetverse](https://github.com/lavibia/planetland.git)
 
 - 🌱 I’m currently learning **The Odin Project**
 
