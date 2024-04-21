@@ -17,4 +17,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavibia&show_icons=true&locale=en" alt="lavibia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavibia&" alt="lavibia" /></p>
