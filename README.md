@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **JavaScript**
 
-- ⚡ Fun fact **My RubberDuck helps me everytime I get stuck. 😋**
+- ⚡Working on:
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/lavibia/audiophile)
 
 <h3 align="left">Connect with me on <a href='https://twitter.com/LaviniaWebDev'>X</a> </h3> 
 <h3 align="left">Languages and Tools:</h3>
