@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lavinia</h1>
-<h3 align="center">A web developer from Romania, living in Italy</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavibia" alt="lavibia" /></a> </p>
 
-- 🌱 I’m currently learning **The Odin Project**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **JavaScript**
 
-- ⚡Working on:
+- ⚡Working on: **Getting better*
 
 <h3 align="left">Connect with me on <a href='https://twitter.com/LaviniaWebDev'>X</a> </h3> 
 <h3 align="left">Languages and Tools:</h3>
